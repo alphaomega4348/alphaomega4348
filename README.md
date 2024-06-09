@@ -96,7 +96,7 @@
   <a href="mailto:alphaomega4348.com">
     <img align="left" alt="Shivam Kumar | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/console.shivam/">
+  <a href="https://www.instagram.com/ergodic.him/">
     <img align="left" alt="Shivam Kumar | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
    <a href="https://github.com/alphaomega4348">
