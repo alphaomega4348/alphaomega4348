@@ -90,6 +90,8 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
+  <a href="https://www.codechef.com/users/last_warning" target="blank"><img align="center" title="CodeChef" src="https://github.com/iffatul-anon/iffatul-anon/blob/main/cc%20logo.png" alt="iffatulanon" height="30" width="35" />
+  </a>
   <a href="https://www.linkedin.com/in/shivam-kumar-6a3135260/">
    <img align="left" alt=" Shivam Kumar | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
@@ -100,7 +102,7 @@
     <img align="left" alt="Shivam Kumar | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
    <a href="https://github.com/alphaomega4348">
-    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="left" alt="Shivam Kumar | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
   
