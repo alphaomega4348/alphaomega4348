@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    Myself <b>Shivam Kumar</b>, a second year <b>Computer Science</b> undergraduate from <b>National Insitute of Technology</b>, Jamshedpur
+    Myself <b>Shivam Kumar</b>, a final year <b>Computer Science</b> undergraduate from <b>National Insitute of Technology</b>, Jamshedpur
     An aspiring <b>Competitive Programmer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Stars can't shine without darkness---"</i></b>
