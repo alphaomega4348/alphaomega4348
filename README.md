@@ -1,1 +1,0 @@
-SWE Intern at Google
